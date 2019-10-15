@@ -1,0 +1,36 @@
+body {margin:0;}
+header {margin:50px 0px;}
+.container {width: 1200px; margin:0 auto;overflow: hidden;}
+.logo {width:30%; float: left;}
+.menu {width:70%;float: left;}
+.menu ul {margin:0; padding: 0;text-align:right;}
+.menu ul li {list-style: none;display:inline-block;margin:0 15px;}
+.menu ul li:last-child {margin-right: 0px;}
+.menu ul li a {text-decoration: none; display: block;text-transform: uppercase;font-size: 20px;letter-spacing: 3px;color:#010101;} 
+.menu ul li a:hover {color:#bfb6b6;}
+.banner-image img, .blog-box img {width: 100%;}
+.article-section {margin:75px 0px 100px;}
+.article-content, .blog-content, .footer-content-box {margin:0px 100px;}
+.article-content span, .blog-box span {font-size: 18px; text-transform: uppercase; color: #bfb6b6; letter-spacing: 2px;}
+.article-content h1, .blog-box h1 {font-size: 30px; color: #666; font-weight: 100;}
+.article-content p, .blog-box p {line-height: 1.5;color: #656161;}
+.article-content a {text-decoration: none;text-transform: uppercase;font-size: 18px; letter-spacing: 2px; color: #bfb6b6;padding-top: 40px;display: inline-block;}
+.article-content a:hover {color: #010101;}
+.blog-content {margin-bottom: 80px;overflow: hidden;}
+.blog-box {float: left;width: 47.5%;margin-right: 50px;}
+.blog-content .last-box {margin-right:0px;}
+.blog-box span {display: inline-block;padding-top: 30px;}
+.footer-content-box {overflow: hidden; padding: 35px 0px;}
+.footer-content {background: #f0f0f0;overflow: hidden;}
+.footer-copyright, .footer-social-icons {float: left; width:50%;}
+.footer-copyright ul, .footer-social-icons ul {margin:0; padding:0;}
+.footer-copyright ul li, .footer-social-icons ul li {list-style: none; display:inline-block;}
+.footer-copyright ul li:last-child {margin-left: 30px;}
+.footer-copyright ul li a, .footer-social-icons ul li a {text-decoration: none; color:#222; display: block; font-size: 18px;}
+.footer-copyright ul li a:hover, .footer-social-icons ul li a:hover {color:#666;}
+.footer-social-icons ul {text-align: right;}
+.footer-social-icons ul li {margin:0px 10px;}
+.footer-social-icons ul li:first-child {font-weight: 700;}
+.footer-social-icons ul li:last-child {margin:0px;}
+.footer-social-icons ul li a {}
+.footer-social-icons ul li a:hover {}
